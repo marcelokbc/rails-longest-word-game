@@ -1,6 +1,54 @@
 // Place all the styles related to the games controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
-.profiler-results {
-  display: none;
+body {
+  font-family: "trebuchet MS", Helvetica, sans-serif;
+  background: lightgray;
 }
+
+p {
+  text-align: center;
+  font-size: 18px;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  text-align: center;
+  margin: 10px auto;
+  color: #fff;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+.container {
+  width: 800px;
+  height: 400px;
+  background-color: rgba(255,255,255,0.7);
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  margin: 0 auto;
+  margin-top: 120px;
+  text-align: center;
+}
+
+.title {
+  color: #111;
+  text-align: center;
+  padding-bottom: 20px;
+
+}
+
+a {
+  height: 40px;
+  width: 80%;
+  font-size: 18px;
+}
+
+
+
+
+
+
